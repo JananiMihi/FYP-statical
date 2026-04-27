@@ -1,0 +1,9 @@
+"exercise","RMSE","MAE","R2"
+"bicep_curl",1.9663,1.5772,0.5593
+"leg_extension",1.9917,1.5861,0.5481
+"lat_pulldown",1.9993,1.5906,0.5454
+"leg_curl",2.0151,1.6195,0.5584
+"shoulder_press",2.0271,1.6012,0.5868
+"leg_press",2.0324,1.6278,0.5479
+"triceps_push",2.0811,1.664,0.532
+"bench_press",2.1232,1.7027,0.5499

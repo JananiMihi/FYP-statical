@@ -1,0 +1,6 @@
+"Variable","rho","p_value","Significant_0.3"
+"PC_HR1",0.514,0,TRUE
+"PC_HR2",-0.001,0.859,FALSE
+"PC_HR3",0.005,0.348,FALSE
+"PC_BP1",0.281,0,FALSE
+"PC_BP2",-0.003,0.51,FALSE
